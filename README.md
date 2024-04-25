@@ -2,7 +2,7 @@
 
 My name is Kalisha but you can call me of Misha ou Alisha
 - I'm studying in plataform [Alura](https:www.alura.com.br)
-- I'm desenvolved many projects in Java Script and now I use this repositories to save it
+- I'm desenvolved some projects in Java Script and now I use this repositories to save it
 
 ### You can talk with me with my 📪 or my instagram
 
