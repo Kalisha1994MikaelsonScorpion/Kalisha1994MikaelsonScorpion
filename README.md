@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my profile my dear🦋
 
-<!--
-**Kalisha1994MikaelsonScorpion/Kalisha1994MikaelsonScorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kalisha but you can call me of Misha ou Alisha
+- I'm studying in plataform [Alura](https:www.alura.com.br)
+- I'm desenvolved many projects in Java Script and now I use this repositories to save it
 
-Here are some ideas to get you started:
+### You can talk with me with my 📪 or my instagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001089515431sp@al.educacao.sp.gov.br
+
+@aisha_mika28_years
+
+
+![](https://media1.tenor.com/m/Kwq02ZsjjCEAAAAC/melissa-benoist-smile.gif)
